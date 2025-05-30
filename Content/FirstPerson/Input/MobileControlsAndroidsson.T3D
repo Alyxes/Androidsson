@@ -1,0 +1,7 @@
+Begin Object Class=/Script/Engine.TouchInterface Name="MobileControlsAndroidsson" ExportPath="/Script/Engine.TouchInterface'/Game/FirstPerson/Input/MobileControlsAndroidsson.MobileControlsAndroidsson'"
+   Controls(0)=(bTreatAsButton=True,Image1="/Script/Engine.Texture2D'/Engine/MobileResources/HUD/VirtualJoystick_Thumb.VirtualJoystick_Thumb'",Center=(X=950.000000,Y=600.000000),ThumbSize=(X=600.000000,Y=600.000000),InteractionSize=(X=600.000000,Y=600.000000),MainInputKey=Gamepad_FaceButton_Left,AltInputKey=Touch1)
+   Controls(1)=(bTreatAsButton=True,Image1="/Script/Engine.Texture2D'/Engine/MobileResources/HUD/VirtualJoystick_Thumb.VirtualJoystick_Thumb'",Center=(X=70.000000,Y=600.000000),ThumbSize=(X=600.000000,Y=600.000000),InteractionSize=(X=600.000000,Y=600.000000),MainInputKey=Gamepad_FaceButton_Left,AltInputKey=Touch1)
+   Controls(2)=(Image1="/Script/Engine.Texture2D'/Engine/MobileResources/HUD/VirtualJoystick_Thumb.VirtualJoystick_Thumb'",Center=(X=512.000000,Y=250.000000),ThumbSize=(X=25.000000,Y=25.000000))
+   ActiveOpacity=0.300000
+   bPreventRecenter=True
+End Object
